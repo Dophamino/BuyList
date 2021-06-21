@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BuyList_Main</string>
+    <string name="main_appCapt">Список покупок</string>
 </resources>
