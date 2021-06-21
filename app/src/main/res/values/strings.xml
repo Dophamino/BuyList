@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">BuyList_Main</string>
-    <string name="main_appCapt">Список покупок</string>
+    <string name="main_appCapt">Наши покупки</string>
+    <string name="main_btnAddlist">Создать список</string>
+    <string name="main_btnLoadlist">Загрузить список</string>
+    <string name="main_btnSettings">Настройки и инфо</string>
+    <string name="main_btnQuit">Закрыть приложение</string>
 </resources>
