@@ -5,4 +5,5 @@
     <color name="basicRed">#FFBB0000</color>
     <color name="darkRed">#FF990000</color>
     <color name="basicGray">#FF222222</color>
+    <color name="lightGray">#FFAAAAAA</color>
 </resources>

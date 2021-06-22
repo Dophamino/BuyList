@@ -4,4 +4,11 @@
     <string name="main_btnAddlist">Создать список</string>
     <string name="main_btnLoadlist">Загрузить список</string>
     <string name="main_btnSettings">Настройки и инфо</string>
+    <string name="addList_captComment">Введите имя списка здесь</string>
+    <string name="addList_btnSave">Сохранить</string>
+    <string name="addList_btnShare">Поделиться</string>
+    <string name="addList_btnClose">Закрыть</string>
+    <string name="addList_nameHint">название нового списка</string>
+    <string name="addList_itemHint">что еще купить?</string>
+    <string name="addList_addItem">Добавить строку</string>
 </resources>
