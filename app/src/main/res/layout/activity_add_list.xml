@@ -82,7 +82,7 @@
                 android:layout_marginRight="8dp"
                 android:inputType="text"
                 android:textColorHint="@color/lightGray"
-                android:textColor="@color/white"
+                android:textColor="@color/black"
                 android:backgroundTint="@color/black"
                 android:layout_columnWeight="5"/>
             <ImageButton
