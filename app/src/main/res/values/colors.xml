@@ -6,4 +6,5 @@
     <color name="darkRed">#FF990000</color>
     <color name="basicGray">#FF222222</color>
     <color name="lightGray">#FFAAAAAA</color>
+    <color name="transparent">#00000000</color>
 </resources>
